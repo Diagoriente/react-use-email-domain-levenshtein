@@ -47,4 +47,4 @@ local development server using `npm start` or `yarn start`.
 
 # Demo
 
-There is a demo hosted on [CodeSandbox]().
+There is a demo hosted on [CodeSandbox](https://codesandbox.io/s/diagoriente-react-hook-useemaildomainlevenshtein-dmi718).
