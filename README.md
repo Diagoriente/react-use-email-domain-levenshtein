@@ -17,12 +17,12 @@ To install, you can use [npm](https://www.npmjs.com/package/@diagoriente/react-u
 
 ## Examples
 
-Here is a simple example of `react-use-email-domain-levenshtein`:
+Here is a simple example of `@diagoriente/react-use-email-domain-levenshtein`:
 
 ```jsx
 import React from "react";
 import ReactDOM from "react-dom";
-import useDomainLevenshtein from "react-use-email-domain-levenshtein";
+import useDomainLevenshtein from "@diagoriente/react-use-email-domain-levenshtein";
 
 function App() {
   const { bind, suggested } = useDomainLevenshtein();

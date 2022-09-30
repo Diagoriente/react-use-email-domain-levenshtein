@@ -1,10 +1,14 @@
 {
   "root": true,
   "name": "@diagoriente/react-use-email-domain-levenshtein",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React hook for suggest email based on the Levenshtein distance",
-  "main": "index.js",
+  "main": "build/index.js",
+  "module": "build/index.es.js",
   "private": false,
+  "files": [
+    "build"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Diagoriente/react-use-email-domain-levenshtein.git"
