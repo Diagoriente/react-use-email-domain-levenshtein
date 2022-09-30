@@ -1,7 +1,7 @@
 {
   "root": true,
   "name": "@diagoriente/react-use-email-domain-levenshtein",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "React hook for suggest email based on the Levenshtein distance",
   "main": "build/index.js",
   "module": "build/index.es.js",
